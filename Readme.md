@@ -12,3 +12,12 @@ Exam code CCA-f
 ```
 https://www.youtube.com/watch?v=rcpNFm_poQs&list=PLviC8AFqAj5A9MHkRIn2fU5Ac2lEdJxNf
 ```
+
+## agentic llop.
+
+```
+tool_use - use some other tool. 
+end_turn - task comoleted, no need to use tools
+
+
+```
