@@ -15,6 +15,11 @@
 
 <img width="1853" height="994" alt="image" src="https://github.com/user-attachments/assets/462a2534-0a10-4fb2-bb79-267614970482" />
 
+<img width="926" height="499" alt="image" src="https://github.com/user-attachments/assets/5d3f9652-296e-49cc-922d-66508187d148" />
+<img width="926" height="499" alt="image" src="https://github.com/user-attachments/assets/39ad75af-b179-4c77-8acf-1b106873393e" />
+<img width="909" height="500" alt="image" src="https://github.com/user-attachments/assets/d6895892-d73c-4e6f-be9a-4452ac57ee2b" />
+
+<img width="686" height="487" alt="image" src="https://github.com/user-attachments/assets/ebfed950-9ebe-4bc0-8f62-41d94b6cec02" />
 
 Exam code CCA-f
 ```
@@ -27,5 +32,16 @@ https://www.youtube.com/watch?v=rcpNFm_poQs&list=PLviC8AFqAj5A9MHkRIn2fU5Ac2lEdJ
 tool_use - use some other tool. 
 end_turn - task comoleted, no need to use tools
 
+
+```
+##
+```
+named seeeion resumption
+Fork
+Fresh and Summary
+
+```
+## HOOKS
+```
 
 ```
