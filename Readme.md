@@ -21,6 +21,18 @@
 
 <img width="686" height="487" alt="image" src="https://github.com/user-attachments/assets/ebfed950-9ebe-4bc0-8f62-41d94b6cec02" />
 
+<img width="881" height="501" alt="image" src="https://github.com/user-attachments/assets/50cbf5a6-5140-4836-9a42-e94fbe29be9d" />
+
+<img width="899" height="490" alt="image" src="https://github.com/user-attachments/assets/10e6f3c4-700d-45e4-8b3d-101c7267e59b" />
+
+
+
+
+
+
+
+
+
 Exam code CCA-f
 ```
 https://www.youtube.com/watch?v=rcpNFm_poQs&list=PLviC8AFqAj5A9MHkRIn2fU5Ac2lEdJxNf
